@@ -1,1 +1,8 @@
 /* vazifa 1 */
+
+.container {
+    max-width: 1240px;
+    padding: 0 20px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
